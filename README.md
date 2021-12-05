@@ -4,10 +4,10 @@ WIP pdf dayplanner template for large e-readers (eg ReMarkable 2)
 
 ## Changelog
 
-* v0.5.0
+#### v0.5.0
  - Initial release
 
-* v0.6.0
+#### v0.6.0
  - First release of lined templates (for day pages and notes)
  - Increase number of notes pages from 20 to 80
    - this is a test for having multiple notes index page. Eventually the page count here will be
