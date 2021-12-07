@@ -2,6 +2,8 @@
 
 WIP pdf dayplanner template for large e-readers (eg ReMarkable 2)
 
+A video of the initial release in action: https://www.reddit.com/r/RemarkableTablet/comments/r5xj85/working_on_a_planner_pdf_for_my_rm2_any_feedback/
+
 ## Changelog
 
 #### v0.5.0
