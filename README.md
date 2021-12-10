@@ -4,6 +4,8 @@ Linked dayplanner pdf for large e-readers (reMarkable 1 & 2, Supernote, Boox, et
 
 I'm building a customizable full-year 2022 version! You can [preorder it here](https://buy.stripe.com/28o6oR3Gl8tA9TGfYY)
 
+Download the current late-2021 version on the [Releases page](https://github.com/af/planner-pdf/releases)
+
 A video of the initial release in action: https://www.reddit.com/r/RemarkableTablet/comments/r5xj85/working_on_a_planner_pdf_for_my_rm2_any_feedback/
 
 ## Changelog
