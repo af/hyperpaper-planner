@@ -14,6 +14,7 @@ A video of the initial release in action: https://www.reddit.com/r/RemarkableTab
 - Link to Notes index from Day pages
 - Full year mini calendar for the next year (currently has broken links, will fix)
 - Show holidays on monthly calendar (US holidays for now, will support others)
+- Slightly darken and increase size of the more subtle text elements
 
 #### v0.6.0
 - First release of lined templates (for day pages and notes)
