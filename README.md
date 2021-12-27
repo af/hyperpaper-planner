@@ -9,7 +9,11 @@ I'm building a customizable full-year 2022 version! You can [order it here](http
 * Quarterly template (lined, dotted)
 * Extra linked collections of pages (Notes, Projects, custom sections of your choosing)
 
-Download the current late-2021 version on the [Releases page](https://github.com/af/planner-pdf/releases)
+## Download 
+The current late-2021 version can be downloaded on the [Releases page](https://github.com/af/planner-pdf/releases)
+
+## FAQ
+See the [discussions](https://github.com/af/hyperpaper-planner/discussions)
 
 A video of the initial release in action: https://www.reddit.com/r/RemarkableTablet/comments/r5xj85/working_on_a_planner_pdf_for_my_rm2_any_feedback/
 
