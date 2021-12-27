@@ -2,7 +2,12 @@
 
 Linked dayplanner pdf for large e-readers (reMarkable 1 & 2, Supernote, Boox, etc)
 
-I'm building a customizable full-year 2022 version! You can [preorder it here](https://hyperpaper.me)
+I'm building a customizable full-year 2022 version! You can [order it here](https://hyperpaper.me) and customize:
+* Header layouts that leave space for your device's on-screen menus (reMarkable, Supernote, Boox Max Lumi)
+* Day templates (lined or dotted, shaded working hours)
+* Weekly tasks template (lined, dotted, kanban board)
+* Quarterly template (lined, dotted)
+* Extra linked collections of pages (Notes, Projects, custom sections of your choosing)
 
 Download the current late-2021 version on the [Releases page](https://github.com/af/planner-pdf/releases)
 
