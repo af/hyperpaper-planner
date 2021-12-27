@@ -13,6 +13,13 @@ A video of the initial release in action: https://www.reddit.com/r/RemarkableTab
 
 ## Changelog
 
+#### v0.8.1
+
+- First pass at support for the Supernote (space above the header)
+- Move Day template's `AGENDA` label to the right to allow 6am entries
+- Add faint lines to the dotted Day template's agenda section
+- Various font-size and spacing tweaks
+
 #### v0.8.0
 
 - Redesigned title page
